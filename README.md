@@ -1,6 +1,6 @@
 # UDQsinepwm_FullBridge_1PSA
 
-Full-bridge single phase inverter unbalanced DQ control in stand-alone mode. Please refer Matlab simulink file for system and control description: https://www.mathworks.com/matlabcentral/fileexchange/72500-half-bridge-single-phase-inverter-unbalanced-dq-control
+Full-bridge single phase inverter unbalanced DQ control in stand-alone mode. Please refer Matlab simulink file for system and control description: https://www.mathworks.com/matlabcentral/fileexchange/72503-full-bridge-single-phase-inverter-unbalanced-dq-control
 
 The codes are developed and compiled on using IDE provided by microchip MPLAB IDE v8.46
 
